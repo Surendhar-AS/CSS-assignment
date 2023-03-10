@@ -1,0 +1,23 @@
+BLOCKCHAIN APPROACH TO CYBER SECURITY VULNERABILITIES ATTACKS AND POTENTIAL COUNTERMEASURES
+Sambana, B., Ramesh, Y., & Rao, M. S. (2020). Blockchain approach to cyber security vulnerabilities attacks and potential countermeasures. International Journal of Security and Its Applications, 14(1), 1-14.
+2.
+Blockchain Cyber Security Vulnerabilities and Potential
+Countermeasures
+Aithal, P. S. (2020). Blockchain Cyber Security Vulnerabilities and Potential Countermeasures.
+3.
+Cybersecurity Risk Management Plan for a Blockchain Application Model
+Kabanda, G. (2021). Cybersecurity risk management plan for a blockchain application model. Trans Eng Comput Sci, 2(1), 221.
+4.Mittal, A., Gupta, M. P., Chaturvedi, M., Chansarkar, S. R., & Gupta, S. (2021). Cybersecurity Enhancement through Blockchain Training (CEBT)–A serious game approach. International Journal of Information Management Data Insights, 1(1), 100001.
+5.Cybersecurity, Data Privacy and Blockchain: A Review
+Wylde, V., Rawindaran, N., Lawrence, J., Balasubramanian, R., Prakash, E., Jayal, A., ... & Platts, J. (2022). Cybersecurity, data privacy and blockchain: A review. SN Computer Science, 3(2), 127.
+6.Parizi, R. M., Dehghantanha, A., Choo, K. K. R., & Singh, A. (2018). Empirical vulnerability analysis of automated smart contracts security testing on blockchains. arXiv preprint arXiv:1809.02702.
+7.BLOCKCHAIN TECHNOLOGY BASED SYSTEM-DYNAMIC
+SIMULATION MODELING OF ENTERPRISE’S CYBER SECURITY
+Sadigov, M., Kuzmenko, O., & Yarovenko, H. (2020). Blockchain technology based system-dynamic simulation modeling of enterprise's cyber security system. Economic and Social Development: Book of Proceedings, 399-408.
+8.Achieving cybersecurity in blockchain-based systems: A survey
+Gimenez-Aguilar, M., De Fuentes, J. M., Gonzalez-Manzano, L., & Arroyo, D. (2021). Achieving cybersecurity in blockchain-based systems: A survey. Future Generation Computer Systems, 124, 91-118.
+9.ioT security: Review, blockchain solutions, and open challenges
+Khan, M. A., & Salah, K. (2018). IoT security: Review, blockchain solutions, and open challenges. Future generation computer systems, 82, 395-411.
+10.Blockchain and
+Cyberphysical Systems
+Braeken, A., Liyanage, M., Kanhere, S. S., & Dixit, S. (2020). Blockchain and cyberphysical systems. Computer, 53(09), 31-35.
